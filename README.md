@@ -28,7 +28,7 @@ Training results are logged using Weights & Biases (WandB).
 ## WandB Report
 Check out the detailed training logs and analysis in our [WandB Report](https://wandb.ai/ajay-madkami-iitm-indian-institute-of-technology-mad/Assignment1/reports/DA6401-Assignment-1--VmlldzoxMTY5NzQ0MQ?accessToken=v0t50qbr5oilxh7nj17hciwicokuw71k8cyofh9nt8xont61uh0dulg4otg89q5t).
 ## GitHub Link
-[GitHub Report]()
+[GitHub Report](https://github.com/Ajaymadkami/DL_Assignment_1/tree/main)
 
 
 Here's a `README.md` file for my project:
